@@ -6,12 +6,20 @@ I wonder where I've seen that before. My Little tribute to my favourite game and
 
 
 
+!\[A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianAcolyte\_Persona3\_Femc\_Mod/refs/heads/main/images/1.png)
+
+
+
 ## Dependencies
 
 * Hallowed Concepts DLC
 * BepInExPack.
 * R2API\_Skins
 * bbepis-BepInExPack
+
+
+
+https://raw.githubusercontent.com/WillyChonkers/JungianAcolyte\_Persona3\_Femc\_Mod/refs/heads/main/images/2.png
 
 
 
@@ -23,9 +31,5 @@ I wonder where I've seen that before. My Little tribute to my favourite game and
 
 
 
-
-
-
-
-
+https://raw.githubusercontent.com/WillyChonkers/JungianAcolyte\_Persona3\_Femc\_Mod/refs/heads/main/images/3.png
 
